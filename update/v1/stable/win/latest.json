@@ -1,0 +1,10 @@
+{
+  "releases": [
+    {
+      "name": "v0.5",
+      "hash": "944a8da23c59f38f0aabb939fce0f060ad7b17c4",
+      "date": "2026-11-03",
+      "notes_html": "<p>The first DolphinXR release that updates itself: from now on, DolphinXR offers each new release when it starts (Settings &gt; General &gt; Auto Update).</p><p>The full release notes are on the <a href=\"https://github.com/iChris4/dolphinXR/releases/tag/v0.5\">releases page</a>.</p>"
+    }
+  ]
+}
